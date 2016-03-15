@@ -1,1 +1,1 @@
-web:	node --harmony lib/mtgslackbot.js
+web:	node lib/mtgslackbot.js
