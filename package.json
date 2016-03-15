@@ -13,7 +13,7 @@
   ],
   "author": "jwong",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "querystring": "^0.2.0",
     "request": "^2.69.0",
     "slack-client": "^1.4.1"
