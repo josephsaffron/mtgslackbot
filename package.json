@@ -14,9 +14,9 @@
   "author": "jwong",
   "license": "ISC",
   "dependencies": {
+    "@slack/client": "^3.9.0",
     "querystring": "^0.2.0",
-    "request": "^2.69.0",
-    "slack-client": "^1.4.1"
+    "request": "^2.69.0"
   },
   "engines": {
     "node": "4.1.1"
